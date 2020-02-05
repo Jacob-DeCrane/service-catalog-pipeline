@@ -1,0 +1,9 @@
+{
+    "SchemaVersion": "1.0",
+    "ProductVersionName": "v2",
+    "ProductVersionDescription": "MyProductVersionDescription",
+    "ProductType": "CLOUD_FORMATION_TEMPLATE",
+    "Properties": {
+        "TemplateFilePath": "/S3_template.json"
+    }
+}
